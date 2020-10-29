@@ -9,10 +9,10 @@ Ce chapitre sera concentré sur les patrons de conception de création, quatre d
 Problème : Comment créer un unique objet en memoire par application et le partager entre plusieurs classes ?
 
 Solution :  
-- Le patron singleton est un patron de création qui crée une **unique** instance en mémoire et la partage avec toutes les classes et tous les threads de l'application.
-- les singletons peuvent améliorer les performances en chargeant des données réutilisables qui prendraient trop de temps a être stockées et rafraîchies à chaque fois qu'on en aurait besoin.
-- on y accède par une seule méthode `public static`, souvent appelée `getInstance`
-- Tous les constructeurs d'un singleton sont `private`, En faisant comme cela nous marquons la classe comme `final`. La classe singleton est *effectively final*.
+- le patron singleton est un patron de création qui crée une **unique** instance en mémoire et la partage avec toutes les classes et tous les threads de l'application,
+- les singletons peuvent améliorer les performances en chargeant des données réutilisables qui prendraient trop de temps a être stockées et rafraîchies à chaque fois qu'on en aurait besoin,
+- on y accède par une seule méthode `public static`, souvent appelée `getInstance`,
+- tous les constructeurs d'un singleton sont `private`, En faisant comme cela nous marquons la classe comme `final`. La classe singleton est *effectively final*.
 
 #### Instanciation statique
 ```java
@@ -135,7 +135,7 @@ Stratégie commune :
 4. Ne pas permettre de modifier les objets mutables référencés ou d'y accéder directement
 5. Empêcher que les méthodes soient redéfinies (*overridden*)
 
-### «Modifier» un objet immutable
+### « Modifier » un objet immutable
 On ne peut pas, il faut créer un nouvel objet (une copie de l'objet)
 
 ## Utiliser le patron « Builder »
@@ -163,6 +163,6 @@ Un choix que les développeurs de la classe cible peuvent prendre est de faire e
 ### Créer des objets avec le patron « Factory »
 Problème : Comment écrire du code qui crée des objets dont le type précis ne peut être connu avant l'execution ?
 
-Solution : Le patron « *factory* », appelé aussi « *factory method pattern * », est un patron de création basé sur l'idée d'utiliser une classe *factory* qui produit des instance d'objets par rapport à un jeu de paramètre.
+Solution : Le patron « *factory* », appelé aussi « *factory method pattern* », est un patron de création basé sur l'idée d'utiliser une classe *factory* qui produit des instance d'objets par rapport à un jeu de paramètre.
 
 Il est similaire au patron « *builder* », bien qu'il soit centrée sur le support du polymorphisme de classe.

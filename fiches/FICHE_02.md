@@ -190,7 +190,7 @@ Un *JavaBean* est un principe pour l'encapsulation de données dans un objet.
         </td>
     </tr>
     <tr>
-        <td>Les getters pour les propriétés non-booléennes commencent par `get`</td>
+        <td>Les getters pour les propriétés non-booléennes commencent par get</td>
         <td>
             <pre lang="java">
                 public int getAge() { 
@@ -213,7 +213,7 @@ Un *JavaBean* est un principe pour l'encapsulation de données dans un objet.
         </td>
     </tr>
     <tr>
-        <td>Les setters commencent par `set`</td>
+        <td>Les setters commencent par set</td>
         <td>
             <pre lang="java">
                 public void setAge(int age) {
@@ -223,7 +223,7 @@ Un *JavaBean* est un principe pour l'encapsulation de données dans un objet.
         </td>
     </tr>
     <tr>
-        <td>Les noms de méthode doivent être préfixés par `set` / `get` / `is` suivi de la première lettre en majuscule suivi du reste du nom de la propriété</td>
+        <td>Les noms de méthode doivent être préfixés par set / get / is suivi de la première lettre en majuscule suivi du reste du nom de la propriété</td>
         <td>
             <pre lang="java">
                 public void setNumChildren(int numChildren) {
