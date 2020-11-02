@@ -5,7 +5,7 @@
 3.  [p.75 - p.92 (Working with Design Patterns -> End of Chapter 2)](fiches/FICHE_03.md)
 4.  [p.103 - p.123 (Beginning of Chapter 3 -> Putting it All Together)](fiches/FICHE_04.md)
 5.  [p.124 - p.142 (Using Lists, Sets, Maps and Queues)](fiches/FICHE_05.md)
-6.  p.143 - p.158 (Comparator vs Comparable -> End of Chapter 3)
+6.  [p.143 - p.158 (Comparator vs Comparable -> End of Chapter 3)](fiches/FICHE_06.md)
 7.  p.171 - p.184 (Beginning of Chapter 4 -> Returning an Optional)
 8.  p.185 - p.204 (Using Streams)
 9.  p.205 - p.222 (Working with Primitives -> End of Chapter 4)
