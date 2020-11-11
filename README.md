@@ -9,7 +9,7 @@
 |6|[Comparator vs Comparable [...] Fin du chapitre 3](fiches/FICHE_06.md)|143|158|
 |7|[Début du chapitre 4 [...] Returning an Optional](fiches/FICHE_07.md)|171|184|
 |8|[Using Streams](fiches/FICHE_08.md)|185|204|
-|9|Working With Primitives [...] Fin du chapitre 4|205|222|
+|9|[Working With Primitives [...] Fin du chapitre 4](fiches/FICHE_09.md)|205|222|
 |10|Début du chapitre 5 [...] Reviewing The String Class|233|254|
 |11|Adding Internationalization [...] Fin du chapitre 5|255|272|
 |12|Tout le chapitre 6|283|313|
