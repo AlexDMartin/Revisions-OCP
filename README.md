@@ -10,7 +10,7 @@
 |7|[Début du chapitre 4 [...] Returning an Optional](fiches/FICHE_07.md)|171|184|
 |8|[Using Streams](fiches/FICHE_08.md)|185|204|
 |9|[Working With Primitives [...] Fin du chapitre 4](fiches/FICHE_09.md)|205|222|
-|10|Début du chapitre 5 [...] Reviewing The String Class|233|254|
+|10|[Début du chapitre 5 [...] Reviewing The String Class](fiches/FICHE_10.md)|233|255|
 |11|Adding Internationalization [...] Fin du chapitre 5|255|272|
 |12|Tout le chapitre 6|283|313|
 |13|Début du chapitre 7 [...] Increasing Concurrency With Pools|325|349|
