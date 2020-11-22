@@ -12,7 +12,7 @@
 |9|[Working With Primitives [...] Fin du chapitre 4](fiches/FICHE_09.md)|205|222|
 |10|[Début du chapitre 5 [...] Reviewing The String Class](fiches/FICHE_10.md)|233|255|
 |11|[Adding Internationalization [...] Fin du chapitre 5](fiches/FICHE_11.md)|255|272|
-|12|Tout le chapitre 6|283|313|
+|12|[Tout le chapitre 6](fiches/FICHE_12.md)|283|313|
 |13|Début du chapitre 7 [...] Increasing Concurrency With Pools|325|349|
 |14|Synchronizing Data Access [...] Obtaining Synchronized Collections|350|365|
 |15|Working With Parallel Streams [...] Fin du chapitre 7|366|391|
