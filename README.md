@@ -14,7 +14,7 @@
 |11|[Adding Internationalization [...] Fin du chapitre 5](fiches/FICHE_11.md)|255|272|
 |12|[Tout le chapitre 6](fiches/FICHE_12.md)|283|313|
 |13|[Début du chapitre 7 [...] Increasing Concurrency With Pools](fiches/FICHE_13.md)|325|349|
-|14|Synchronizing Data Access [...] Obtaining Synchronized Collections|350|365|
+|14|[Synchronizing Data Access [...] Obtaining Synchronized Collections](fiches/FICHE_14.md)|350|366|
 |15|Working With Parallel Streams [...] Fin du chapitre 7|366|391|
 |16|Début du chapitre 8 [...] Common Stream Operations|405|419|
 |17|Working With Streams [...] Fin du chapitre 8|420|441|
