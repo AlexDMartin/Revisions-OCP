@@ -15,7 +15,7 @@
 |12|[Tout le chapitre 6](fiches/FICHE_12.md)|283|313|
 |13|[Début du chapitre 7 [...] Increasing Concurrency With Pools](fiches/FICHE_13.md)|325|349|
 |14|[Synchronizing Data Access [...] Obtaining Synchronized Collections](fiches/FICHE_14.md)|350|366|
-|15|Working With Parallel Streams [...] Fin du chapitre 7|366|391|
+|15|[Working With Parallel Streams [...] Fin du chapitre 7](fiches/FICHE_15.md)|366|391|
 |16|Début du chapitre 8 [...] Common Stream Operations|405|419|
 |17|Working With Streams [...] Fin du chapitre 8|420|441|
 |18|Début du chapitre 9 [...] Interacting With Files|453|477|
